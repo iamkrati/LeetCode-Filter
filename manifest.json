@@ -1,0 +1,10 @@
+{
+    "name":"LeetCode Filter",
+    "description": "Get filtered questions based on their difficulty",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"LeetCode1.png"
+        }
+}
