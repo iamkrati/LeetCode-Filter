@@ -6,7 +6,7 @@ Motive : To use LeetCode Efficiently
 
 # Find your LeetCode Id
 
-<a href="https://leetcode.com/profile/account/">Click me</a>
+<a href="https://leetcode.com/profile/account/" target="_blank">Click me</a>
 <br/>
 
 <br/>
@@ -37,7 +37,7 @@ Motive : To use LeetCode Efficiently
    <img src="second.png">
   </li><br/>
   <li>
-    Once you enter your LeetCode Id, it will display your stats and select a random question for practise. You can choose questions from different topics(e.g Dynamic Programming, Trees etc) and set the difficulty level of your choice.
+    Once you enter your LeetCode Id, it will display your stats and select a random question for practice. You can choose questions from different topics(e.g Dynamic Programming, Trees etc) and set the difficulty level of your choice.
     <br/><br/>
     <img src="third.png">
   </li>
@@ -55,6 +55,6 @@ Motive : To use LeetCode Efficiently
  
  # Contact
  
- <a href="https://iamkrati.github.io/Krati-sPortfolio/">Click</a> for Contact me
+ <a href="https://iamkrati.github.io/Krati-sPortfolio/" target="_blank">Click</a> for Contact me
 
   
