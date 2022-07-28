@@ -44,6 +44,15 @@ Motive : To use LeetCode Efficiently
  </ul> 
  <br>
  
+ # Tech Stack
+ 
+ <ul>
+ <li> HTML </li>
+ <li> CSS </li>
+ <li> JavaScript </li>
+ <li> GraphQL API </li>
+ </ul>
+ 
  # Contact
  
  <a href="https://iamkrati.github.io/Krati-sPortfolio/">Click</a> for Contact me
